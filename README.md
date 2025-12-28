@@ -1,5 +1,5 @@
 # Narrendra Setyawan Bahar
-**Gameplay / Systems Programmer**
+**Game Programmer/Designer**
 
 [Play my games on Itch.io]((https://nrrndr.itch.io/))
 | [GitHub](https://github.com/Nrrndr)
