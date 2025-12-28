@@ -11,7 +11,7 @@
 ### Overpaint
 *Unity, C#*
 
-▶ [Play on Itch]((https://superhugefather.itch.io/overpaint))  
+▶ [Play on Itch](https://superhugefather.itch.io/overpaint)
 ▶ [View Code](https://github.com/irfanfrafif/FastestPainterProto)
 
 **What I did**
